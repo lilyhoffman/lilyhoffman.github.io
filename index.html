@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1 style = "color:black; font-size: 60px;">Welcome to My Corner of the Web</h1>
+
+    <button id = 'navigationButton'>Go to another page</button>
+    <script>
+        const navigationButton = document.getElementById('navigationButton')
+        navigationButton.addEventListener('click', function(){
+            window.location.href = 'test.html';
+        }
+
+        )
+    </script>
+
+    <p id = 'main'> Hello! I’m Lily Hoffman, a third-year honors student at Northeastern University, where I’m pursuing a combined major in Data Science and Psychology. My studies blend analytical techniques with insights into human behavior, enabling me to approach complex problems from various perspectives. I possess strong programming skills in Python, SQL, HTML, CSS, JavaScript, and Visual Basic, which I’ve applied in data analytics, automation, and mentoring roles. 
+        Currently, I serve as a teaching assistant for Foundations of Data Science (DS3000). I find joy in helping students grasp challenging concepts and enhancing their analytical skills. My passion lies in crafting innovative solutions and fostering supportive learning environments that promote teamwork and personal growth.
+        My involvement in organizations like NEU Women in Technology and the University Concert Band enriches my college experience and connects me with a diverse group of peers. I’m eager to explore new opportunities in data science that stimulate my intellect and allow me to positively impact projects.
+        I believe that through collaboration and creativity, we can address significant challenges in data and psychology. Ultimately, I aspire to leverage my skills to develop solutions that enhance our understanding of human behavior and improve lives in meaningful ways, contributing to the advancement of society as a whole.
+        
+        </p>
+
+        <h3 style="text-align: center;">Contact Information</h3>
+        <div class="contact-links" style="text-align: center;">
+            <a href="https://www.linkedin.com/in/lily-n-hoffman/">My LinkedIn Profile</a><br>
+            <a href="https://www.instagram.com/northeastern/">Northeastern's Instagram Page</a>
+        </div>
+        <img src="images/me.jpg" alt="A picture of me" width="400" style="display: block; margin: 20px auto;">
+    
+    
+</body>
+</html>

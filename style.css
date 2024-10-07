@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;  
+    background-color: #f9f9f9;  
+    margin: 0;  
+    padding: 20px; 
+}
+
+h1 {
+    text-align: center;  
+    color: black;  
+    font-size: 36px;  
+    margin-bottom: 20px;  
+}
+
+h3 {
+    text-align: center;  
+    color: darkgreen;  
+    font-size: 25px;  
+    margin-bottom: 20px;  
+}
+
+p {
+    text-align: center;
+    width: 1000px;  
+    margin: 0 auto;  
+    line-height: 1.6;  
+}
+
+#main {
+    color: darkblue;  
+    background-color: lightgray;  
+    padding: 20px;  
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  
+    margin-bottom: 20px;  
+}
+
+.A {
+    border: 8px solid #87CEEB; /* Use a more muted gold color */
+    padding: 20px; /* Maintain padding */
+    background-color: #B0E0E6; /* Keep background color */
+    border-radius: 15px; /* Increase border-radius for softer corners */
+    margin-top: 20px; /* Keep margin */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
+    transition: transform 0.3s, box-shadow 0.3s; /* Add transition for hover effect */
+}
+
+button {
+    background-color: #007BFF;  
+    color: white;  
+    border: none;  
+    padding: 10px 20px;  
+    font-size: 16px;  
+    border-radius: 5px;  
+    cursor: pointer;  
+    transition: background-color 0.3s;  
+}
+
+button:hover {
+    background-color: #0056b3; 
+}
+
+img {
+    margin-top: 20px; / 
+    max-width: 100%;  
+    height: auto;  
+}
+
+
+.contact-title {
+    text-align: center;  
+}
+
+.contact-links {
+    text-align: center;  
+    margin: 20px 0;  
+}
+
+.contact-links a {
+    color: #007BFF; 
+    text-decoration: none; 
+    font-weight: bold; 
+    padding: 5px 10px; 
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s; 
+
+.contact-links a:hover {
+    background-color: #0056b3;
+    color: white; 
+}
+
+.contact-image {
+    display: block; 
+    margin: 20px auto; /
+    max-width: 100%; 
+    height: auto; 
+}
