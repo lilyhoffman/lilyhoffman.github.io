@@ -1,0 +1,14 @@
+https://lilyhoffman.github.io/index.html
+
+
+This website design is simple yet engaging, with a focus on making everything look clean and easy to navigate. 
+The background is a light color, which pairs well with the Arial font, making the content easy to read.
+ The headings are centered, giving a balanced look, with h1 and h3 using darker colors to stand out nicely against 
+ the light background. The main text is highlighted with a light gray background and dark blue font, surrounded 
+ by some padding and rounded edges to give it a friendly vibe, along with a slight shadow that makes it pop off the page.
+
+The buttons are styled with a bright blue color and have a cool effect when you hover over them, turning 
+into a darker blue to make them feel more interactive. The contact links follow a similar design with smooth 
+transitions, so they’re easy to spot and use. Images are set to adjust automatically based on the screen size.
+ The list of hobbies is framed with a soft blue border, rounded edges, and a small shadow, giving it a casual 
+ yet neat appearance. All these little touches help make the site feel welcoming and user-friendly!
